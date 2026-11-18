@@ -1,0 +1,14 @@
+Sloth Reader is a quiet place for the books, documents, and comics you already have. Keep your reading local, make your library your own, and come back to the page where you stopped.
+
+READ YOUR WAY
+• Browse books on your device and scan the folders you choose.
+• Read PDF, EPUB, EPUB3, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, and DOCX files.
+• Choose fonts, text size, spacing, colors, themes, and the page-turning style supported by each reader.
+• Save bookmarks, highlights, and notes as you read.
+• Listen with text-to-speech and use the built-in reading controls.
+• Browse OPDS catalogs and use the backup, cloud storage, and synchronization options available in your distribution.
+
+Sloth Reader is made for your personal reading library, with no account or book subscription required.
+
+Website: https://app-show.pages.dev/en/products/slothreader/
+Feedback: yihuihui@gmail.com
